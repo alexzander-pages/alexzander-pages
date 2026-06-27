@@ -51,6 +51,5 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-My LinkedIn: www.linkedin.com/in/cruz-day-514719401
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
+www.linkedin.com/in/cruz-day-514719401
