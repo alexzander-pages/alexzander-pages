@@ -39,7 +39,7 @@ I'm Cruz, a student at Brigham Young University-Idaho interested in Cyber Securi
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my LinkedIn profile: www.linkedin.com/in/cruz-day-514719401
 - Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
@@ -53,4 +53,3 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-www.linkedin.com/in/cruz-day-514719401
