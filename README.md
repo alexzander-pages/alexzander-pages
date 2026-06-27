@@ -23,7 +23,7 @@ I'm Cruz, a student at Brigham Young University-Idaho interested in Cyber Securi
 
 - I'm currently studying Cyber Security and its many facets.
 - My goals are to develop a sturdy foundation to prepare me for providing for my future family and life style. 
-- I grew p moving all around the world, feel free to ask me about any of the many experiences this has blessed me with.
+- I grew up moving all around the world, feel free to ask me about any of the many experiences this has blessed me with.
 
 ## Technologies and Tools
 
@@ -51,7 +51,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+My LinkedIn: www.linkedin.com/in/cruz-day-514719401
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
-[![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]()
 
