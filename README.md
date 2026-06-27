@@ -21,14 +21,21 @@ I'm Cruz, a student at Brigham Young University-Idaho interested in Cyber Securi
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently studying Cyber Security and its many facets.
+- My goals are to develop a sturdy foundation to prepare me for providing for my future family and life style. 
+- I grew p moving all around the world, feel free to ask me about any of the many experiences this has blessed me with.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in:
+    - Python
+    - Javascript
+    - HTML
+    - CSS
+    - MySQL
+    - Linux
+    - Microshoft word, excel, powerpoint, etc.
+- Skills: 
 
 ## Let's Connect!
 
