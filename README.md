@@ -40,7 +40,6 @@ I'm Cruz, a student at Brigham Young University-Idaho interested in Cyber Securi
 ## Let's Connect!
 
 - Here is my LinkedIn profile: www.linkedin.com/in/cruz-day-514719401
-- Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
